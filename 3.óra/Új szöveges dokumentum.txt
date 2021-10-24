@@ -1,0 +1,6 @@
+összefûz
+darab = csak a számok érdeklik
+darab2 = nem üres cellákat számolja meg
+darabüres = üres cellékat nézi
+darabteli (count if) = ha 1 feltételünk van
+darabhatöbb = ha több feltételünk van
