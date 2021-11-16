@@ -1,0 +1,43 @@
+﻿Rendszám
+
+
+A protonok száma az atom magjában. Mivel darabszámot fejez ki, ezért értéke biztosan egész szám.
+Moláris tömeg
+A tömeg és az anyagmennyiség hányadosa. Kifejezi 1 mol anyag grammban mért tömegét.
+Olvadáspont
+Ezen a hőmérsékleten az anyag szilárd és folyadék fázisa egyensúlyban van. Dinamikus egyensúly áll fenn a rendszerben. Ez az érték nyomásfüggő.
+Forráspont
+Egy folyadék gőzének nyomása a hőmérséklet emelésével nő. A forrásponton a telített gőz nyomása eléri a külső nyomást. Ez az érték nyomásfüggő.
+Elektronegativitás
+Az atomok elektronvonzó képességét jellemző érték. A legnagyobb a fluoré (4,0) és a legkisebb a franciumé (0,7).
+
+
+A klór főleg két izotóp, a 35-ös és 37-es tömegszámú keveréke, molekulái kétatomosak: Cl2.
+A klór oxidációs száma fémekkel alkotott vegyületeiben mindig -1. A nemfémekkel szemben -1, +1, +3, +5, +7 lehet. A -1 oxidációs számú vegyületeit kloridoknak nevezzük. A klór +1 oxidációs számú vegyületei a hipokloritok, +3 a kloritok, +5 a klorátok, +7 oxidációs számú vegyületei pedig a perklorátok.
+Elektronegativitása nagy (3,0), a fluor után a legreakcióképesebb elem. Ennek oka, hogy a klórmolekula kötése viszonylag könnyen, már a látható fény (kék fény) hatására felbomlik.
+
+A brómatomok kovalens kötéssel kétatomos molekulákat alkotnak: Br2. Stabilitásuk kisebb, mint a klórmolekuláké.
+A bróm oxidációs száma (a klórhoz hasonlóan) fémekkel alkotott vegyületeiben mindig -1, nemfémekkel szemben -1, +1, +3, +5, +7 lehet. A bróm -1 oxidációs számú vegyületeit bromidoknak nevezzük. Bromátoknak a +5 oxidációs számú vegyületeit nevezzük.
+A bróm elektronegativitása kisebb (2,8) mint a klóré (3,0), reakciókészége azonban igen nagy.
+
+
+Klór reakciója foszforral
+Szükséges anyagok
+klórral telt henger
+vörösfoszfor
+gyertya
+Eszközök
+vasdrót
+vegyszeres kanál
+gázfelfogó henger üveglappal
+Végrehajtás
+Töltsük meg gázzal a hengert, fedjük le üveglappal!
+A mintegy 50 cm hosszú vasdrót végére erősítsük a kisebb méretű gyertyát!
+A gyertya bele köré laza rétegben tegyünk száraz vörösfoszfort!
+Mártsuk a klórgázzal telt hengerbe a gyertyát, és addig tartsuk ott, amíg az meggyullad!
+Magyarázat
+2 P + 5 Cl2 = 2 PCl5
+A vörösfoszfor és a klórgáz reakciója exoterm folyamat, a fejlődő hőtől meggyullad a foszfor, az égő foszfor pedig meggyújtja a gyertyát.
+A kísérletben azt is megfigyelhetjük, hogy a gyertya a szokásosnál erősebben kormozó lánggal ég. Ennek oka valószínűleg az, hogy a paraffin nagy szénatomszámú szénhidrogén-molekuláival úgy reagál a klór, hogy főként a hidrogénnel vegyül, míg a szén egy része koromként jelenik meg a reakciótérben a kevés oxigén miatt.
+
+

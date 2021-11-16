@@ -1,6 +1,31 @@
+<<<<<<< HEAD
 összefûz
 darab = csak a számok érdeklik
 darab2 = nem üres cellákat számolja meg
 darabüres = üres cellékat nézi
 darabteli (count if) = ha 1 feltételünk van
 darabhatöbb = ha több feltételünk van
+min
+max
+év
+véletlen között
+vél --> random számok 0-1 között
+fkeres
+
+
+
+
+ha erre vézõdõek 
+f9-el részeredmények megtekintése
+
+bajnokság 2019 excel középszintû
+futball Eb
+fogyasztás
+=======
+összefûz
+darab = csak a számok érdeklik
+darab2 = nem üres cellákat számolja meg
+darabüres = üres cellékat nézi
+darabteli (count if) = ha 1 feltételünk van
+darabhatöbb = ha több feltételünk van
+>>>>>>> 7259485f08ecef6920355fee6a4dda9dd4dd5b1f

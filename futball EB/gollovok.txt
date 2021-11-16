@@ -1,0 +1,78 @@
+﻿			Góltípus				Honnan lőtt?				Próbálkozások
+Név	Játszott mérkőzések	Idő	Bal láb	Jobb láb	Fejjel	Egyéb	16-oson belül	16-oson kívül	Büntető	Összes gól	Kapura	Nem kapura	Blokkolt	Kapufa	Összes próbálkozás	Eredményesség
+Arnor Ingvi Traustason	2	11	1	0	0	0	1	0	0		1	0	0	0						Összes gól:	
+Michy Batshuayi	2	21	0	1	0	0	1	0	0		2	0	0	0						100%-osok	
+Milan Škoda	2	56	0	0	1	0	1	0	0		2	0	0	0						Csak büntetőből:	
+Nikola Kalinić	2	122	0	1	0	0	1	0	0		2	1	0	0						Legtöbbet játszott:	
+Shkodran Mustafi	2	119	0	0	1	0	1	0	0		1	1	0	0
+Bogdan Stancu	3	264	0	2	0	0	2	0	2		4	1	1	0						Gólok száma:	
+Alessandro Schöpf	3	83	1	0	0	0	1	0	0		3	1	1	0						1	
+Armando Sadiku	3	231	0	0	1	0	1	0	0		2	1	2	0						2	
+Burak Yılmaz	3	205	0	1	0	0	1	0	0		1	1	0	0						3	
+Daniel Sturridge	3	210	0	1	0	0	1	0	0		3	3	4	0						4	
+Denis Glushakov	3	145	0	0	1	0	1	0	0		1	3	0	0						5	
+Éder	3	54	0	1	0	0	1	0	0		2	0	0	0						6	
+Jamie Vardy	3	165	0	1	0	0	1	0	0		2	2	0	0
+Luka Modrić	3	272	0	1	0	0	0	1	0		1	1	0	0
+Niall McGinn	3	38	0	1	0	0	1	0	0		1	0	0	0
+Ondrej Duda	3	154	1	0	0	0	1	0	0		1	1	0	0				Bal lábbal	Jobb lábbal	Fejjel	Egyéb
+Ozan Tufan	3	270	0	1	0	0	1	0	0		2	1	0	0
+Tomáš Necid	3	169	0	1	0	0	1	0	1		3	1	0	0
+Vasili Berezutski	3	225	0	0	1	0	1	0	0		1	1	0	0
+Zoltán Stieber	3	83	0	1	0	0	1	0	0		1	0	0	0
+Álvaro Morata	4	289	1	1	1	0	3	0	0		7	4	2	0
+Balázs Dzsudzsák	4	360	2	0	0	0	0	2	0		6	2	4	0
+Graziano Pellè	4	360	0	2	0	0	2	0	0		4	6	1	0
+Ivan Perišić	4	387	2	0	0	0	2	0	0		4	8	4	2
+Mario Gomez	4	271	2	0	0	0	2	0	0		5	3	2	0
+Robbie Brady	4	360	1	0	1	0	2	0	1		2	2	3	0
+Ádám Szalai	4	236	0	1	0	0	1	0	0		4	2	3	0
+Admir Mehmedi	4	307	1	0	0	0	0	1	0		2	2	2	0
+Éder Citadin Martins	4	355	0	1	0	0	1	0	0		3	0	4	0
+Emanuele Giaccherini	4	390	0	1	0	0	1	0	0		2	0	3	0
+Eric Dier	4	315	0	1	0	0	0	1	0		2	2	5	0
+Fabian Schär	4	390	0	0	1	0	1	0	0		3	3	1	0
+Gareth McAuley	4	354	0	0	1	0	1	0	0		2	0	1	0
+Gerard Piqué	4	360	0	0	1	0	1	0	0		4	2	1	0
+Giorgio Chiellini	4	391	1	0	0	0	1	0	0		1	0	0	0
+Ivan Rakitić	4	380	0	1	0	0	1	0	0		2	6	1	1
+Marek Hamšík	4	360	0	1	0	0	1	0	0		1	4	5	0
+Nolito	4	277	0	1	0	0	1	0	0		1	4	2	0
+Sam Vokes	4	187	0	0	1	0	1	0	0		3	5	0	0
+Vladimír Weiss	4	278	0	1	0	0	1	0	0		2	2	0	0
+Wayne Rooney	4	290	0	1	0	0	1	0	1		4	5	2	0
+Wes Hoolahan	4	181	0	1	0	0	1	0	0		2	0	0	0
+Xherdan Shaqiri	4	377	1	0	0	0	1	0	0		4	3	3	0
+Zoltán Gera	4	270	1	0	0	0	0	1	0		2	2	0	0
+Birkir Bjarnason	5	450	0	1	1	0	2	0	0		2	2	0	0
+Hal Robson-Kanu	5	269	2	0	0	0	2	0	0		3	1	0	0
+Jakub Błaszczykowski	5	445	1	1	0	0	2	0	0		3	2	2	0
+Kolbeinn Sigthórsson	5	404	0	2	0	0	2	0	0		2	1	1	0
+Radja Nainggolan	5	365	0	2	0	0	0	2	0		3	3	3	0
+Romelu Lukaku	5	402	2	0	0	0	1	1	0		5	6	0	0
+Aaron Ramsey	5	448	0	1	0	0	1	0	0		5	1	6	0
+Arkadiusz Milik	5	510	1	0	0	0	1	0	0		6	10	3	0
+Axel Witsel	5	450	0	0	1	0	1	0	0		3	4	3	0
+Bastian Schweinsteiger	5	219	0	1	0	0	1	0	0		2	1	0	0
+Eden Hazard	5	441	0	1	0	0	1	0	0		3	3	6	0
+Gylfi Sigurdsson	5	450	0	1	0	0	1	0	1		6	1	3	0
+Jón Dadi Bödvarsson	5	364	0	1	0	0	1	0	0		2	4	0	0
+Julian Draxler	5	359	0	1	0	0	1	0	0		2	5	3	0
+Leonardo Bonucci	5	480	0	1	0	0	1	0	1		1	0	0	0
+Ragnar Sigurdsson	5	450	0	1	0	0	1	0	0		2	0	0	0
+Robert Lewandowski	5	510	0	1	0	0	1	0	0		6	3	3	0
+Toby Alderweireld	5	450	0	0	1	0	1	0	0		2	3	1	0
+Yannick Carrasco	5	214	1	0	0	0	1	0	0		2	0	0	0
+Gareth Bale	6	533	3	0	0	0	1	2	0		16	6	3	0
+Olivier Giroud	6	456	1	0	2	0	3	0	0		6	7	2	1
+Ashley Williams	6	540	0	0	1	0	1	0	0		2	4	1	0
+Jérôme Boateng	6	509	0	1	0	0	0	1	0		1	2	1	0
+Mesut Özil	6	570	1	0	0	0	1	0	0		6	6	2	0
+Neil Taylor	6	540	1	0	0	0	1	0	0		3	1	1	0
+Renato Sanches	6	407	1	0	0	0	0	1	0		1	2	2	0
+Antoine Griezmann	7	555	4	0	2	0	5	1	1		14	5	7	1
+Cristiano Ronaldo	7	625	0	0	2	1	3	0	0		12	17	17	1
+Dimitri Payet	7	506	2	1	0	0	1	2	0		7	7	6	1
+Nani	7	706	1	2	0	0	3	0	0		9	11	1	1
+Paul Pogba	7	602	0	0	1	0	1	0	0		7	6	3	1
+Ricardo Quaresma	7	286	0	0	1	0	1	0	0		3	2	1	0
