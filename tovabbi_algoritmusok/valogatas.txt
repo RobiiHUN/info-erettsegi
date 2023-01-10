@@ -1,0 +1,10 @@
+
+típus;bútor;osztály;ár;raktáron
+Samu;íróasztal;iroda;120;igen
+Álom-5;ágy;hálószoba;210;nem
+Stílus;étkező asztal;konyha;140;igen
+Óriás;kanapé;szoba;320;igen
+Xora;kisasztal;szoba;89;nem
+Boxxx;iratszekrény;iroda;150;nem
+Lux;sarokpolc;szoba;180;igen
+  
