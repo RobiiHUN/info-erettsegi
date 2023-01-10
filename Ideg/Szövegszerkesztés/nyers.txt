@@ -1,0 +1,46 @@
+Az idegsejtek
+Az idegsejtek száma
+Idegsejtek, illetve azok nyúlványai az emberi szervezet szinte minden részében elõfordulnak. A legtöbb az agyban található (újabb számítások szerint 86 milliárd), de meglepõ, hogy a gerincvelõben és a bélben az idegsejtek száma közel megegyezik, így a bélidegrendszert külön „agyként” is említik. Az ecetmuslicának 100–300 ezer, az egérnek 75 millió, a macskának 1,2 milliárd, kutyáknak 2,2 milliárd, a csimpánznak 28 milliárd, az elefántnak 257 milliárd idegsejtjérõl számolnak be a szakirodalomban.
+Az idegsejt felépítése
+Az idegsejtek nyúlványos sejtek, rövid nyúlványaik a dendritek, a leghosszabb nyúlványuk az axon. Az információ felvétele általában a dendriteknél zajlik, a sejttestben van a legtöbb sejtalkotó, itt történik a sejtmûködések irányítása és a mûködés szempontjából fontos anyagok elõállítása (1. ábra). Az axon, illetve végzõdése, az általában elágazó végfácska köti össze az idegsejtet egy másik sejttel. Az axon sejthártyája elektromos jel (akciós potenciál) vezetésére specializálódott, aminek hatására az axonvégzõdésbõl kémiai anyagok szabadulnak fel.
+Idegsejtek típusai
+Az idegsejtek attól függõen, hogy a sejttestbõl hány nyúlvány ered, lehetnek soknyúlványúak (multipoláris), egynyúlványúak (unipoláris), álegynyúlványúak (pszeudounipoláris), kétnyúlványúak (bipoláris) (2. ábra). Mûködésük alapján érzõidegsejt (szenzoros neuron), mozgatóidegsejt (motoros neuron) és közti idegsejt (interneuron) különböztethetõ meg. 
+2. Különbözõ felépítésû idegsejtek
+Az egynyúlványú neuron fõként gerinctelenekre (pl. rovarok) jellemzõ. Gerincesekben az úgynevezett álegynyúlványú idegsejtnek kezdetben két nyúlványa van, amelyek a sejttest közelében összeolvadnak. A soknyúlványú idegsejtek fõként interneuronok és mozgatóidegsejtek. Az interneuronok axonja lehet rövid, és ekkor helyi kapcsolatokat alakít ki, vagy hosszabb, ekkor távolabbi célsejtekkel létesít kapcsolatot (3. ábra).
+
+Miért különleges sejttípus az idegsejt?
+Az idegsejt ingerlékeny sejttípus, melynek fõ feladatai az információ (inger) felvétele, feldolgozása (jelátalakítás, inger ingerületté alakítása), és továbbítása (4. ábra).
+Az inger az élõ szervezetet érõ, annak valamilyen válaszát keltõ hatás.
+Az ingerület: a sejt inger hatására bekövetkezõ változása. Megváltozhat pl. a sejt alakja (izom), elektromos állapota (akciós potenciál alakul ki), anyagcseréje (enzimek aktiválódása révén lebontja a májsejt a glikogént glükózzá).
+Jelnek nevezünk mindent, ami mérhetõ és információt hordoz, pl. fizikai, kémiai, biológiai mennyiségek vagy azok változásai.
+A receptor (jelfogó és jelátalakító) fogalmát különbözõ szervezõdési szinteken is értelmezhetjük.
+A receptorok a sejt felszínén vagy a sejt belsejében elhelyezkedõ fehérjemolekulák, amelyek agy adott anyag specifikus megkötésére képesek, ez a kötés különbözõ válaszfolyamatok beindulását eredményezi (5. ábra). Például ha a szívizomsejtekhez futó egyik idegvégzõdésbõl noradrenalin (jel) szabadul fel és hozzákötõdik a szívizomsejtek receptoraihoz (jelfogó), ennek hatására olyan folyamatok (jelátalakítás, jelerõsítés) indulnak be, amelyek eredményeként a szívizomsejtek és így a szív összehúzódásainak száma és ereje is nõ (válasz).
+Sejtszinten receptornak számítanak az érzékelõsejtek (speciális idegsejtek, módosult hámsejtek). A receptorsejt a külsõ és belsõ környezet fizikai (fény, hõ, mechanikai) és kémiai (szag, íz) ingereit alakítja át elektromos jellé. Ahhoz, hogy az információkat a szervezet feldolgozza, le kell fordítani ezeket az idegsejtek nyelvére, amit jelátalakításnak nevezünk. Például a hangok, mint mechanikai ingerek a fülünkben elektromos jelekké alakulnak, ami több lépésben majd az agyba jut, ahol is megtörténik az elektromos jel értelmezése.
+
+A receptorsejtek típusai
+Felépítésük alapján egyes érzõidegsejtek lehetnek szabad idegvégzõdésûek, mások idegvégzõdését kötõszövetes tok és benne sejtek veszik körül (idegvégkészülékek) (6. ábra).
+
+6. A receptorsejtek típusai
+A szabad idegvégzõdésû fájdalomérzõ receptorok olyan különbözõ ingerekre érzékenyek (mechanikai, kémiai és hõmérsékleti hatásokra), amelyek szövetkárosodást okoznak, vagy annak veszélyét hordozzák.
+Végkészülékkel rendelkezõ receptorok pl. a bõr nyomásérzékelõ receptorai.
+A fülben található szõrsejtek (érzõreceptorok) ingerületét a sejten végzõdõ érzõidegrost szállítja központba.
+A szaglóhámban található érzõneuronok/érzékhámsejtek saját nyúlványaikkal viszi be az információt a központba.
+Az idegsejtek mûködése
+Nyugalmi potenciál
+Ha egy nyugalomban lévõ, idegsejt belsejébe és a sejten kívüli terébe is elhelyezünk egy érzékelõelektródát, akkor a sejten belüli és a sejten kívüli tér között potenciálkülönbséget (feszültséget) mérhetünk, amit nyugalmi potenciálnak nevezzük (7. ábra). Értéke általában 0 és –100 mV közötti (jellemzõen –70 mV).
+7. A nyugalmi potenciál mérése8.A nyugalmi potenciált kialakító Na+/K+-pumpafehérje
+Kialakulása alapvetõen a sejt belsõ és külsõ tere közötti eltérõ ionösszetételre vezethetõ vissza. A sejten belüli térben például a káliumionok, míg a sejten kívüli térben a nátriumionok vannak jelen nagyobb koncentrációban. Ezt a sejthártyában lévõ fehérje, a Na+/K+-pumpa ATP igényes mûködése okozza (8. ábra).
+Az eddig említett ionokon kívül a sejt belsejében a negatív töltésû fehérjék, míg a sejt külsõ terében a kloridionok találhatók nagyobb koncentrációban.
+
+Megjegyzések
+- A K+-ionok mintegy 20-szor könnyebben jutnak át a membránon nyugalomban, mint a Na+-ionok, ezért a nyugalmi potenciál kialakításában ezek az ionok a fõszereplõk.
+- Már igen kevés ion átlépése jelentõs feszültségkülönbség kialakulását eredményezi a membrán két oldala között.
+Tartalom:
+Az idegsejtek	1
+Az idegsejtek száma	1
+Az idegsejt felépítése	2
+Idegsejtek típusai	2
+Miért különleges sejttípus az idegsejt?	3
+A receptorsejtek típusai	4
+Az idegsejtek mûködése	5
+

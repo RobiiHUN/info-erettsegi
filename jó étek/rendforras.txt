@@ -1,0 +1,23 @@
+﻿Megrendelőlap
+Étek-rendelő, illetve –lemondó lap
+Azonosító:	
+Megrendelő neve:	
+Szállítási cím:	
+Telefonszám:	
+Szállítás időpontja:	
+Hét:	
+Megrendelés:
+Lemondás:
+(Kérjük jelölje, hogy rendelni vagy lemondani szeretne!)
+Menü	Hétfő	Kedd	Szerda	Csütörtök	Péntek	Összesen
+A1						
+A2						
+B						
+C						
+D						
+T1						
+T2						
+S						
+V						
+Z						
+(A táblázatban a kívánt adagok mennyiségét írja be!)

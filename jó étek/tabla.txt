@@ -1,0 +1,170 @@
+﻿<table>
+<tr>
+ <td>MENÜ</td>
+ <td>HÉTFŐ</td>
+ <td>KEDD</td>
+ <td>SZERDA</td>
+ <td>CSÜTÖRTÖK</td>
+ <td>PÉNTEK</td>
+ </tr>
+ <tr>
+ <td>A1</td>
+ <td>Tejfölös, gombás sertésraguleves</td>
+ <td>Marhahúsleves tésztával</td>
+ <td>Frankfurti leves</td>
+ <td>Zöldborsóleves</td>
+ <td>Palócleves (pulykahúsból, tejfölös, zöldbabos)</td>
+ </tr>
+ <tr>
+ <td> </td>
+ <td>365 Ft</td>
+ <td>380 Ft</td>
+ <td>340 Ft</td>
+ <td>320 Ft</td>
+ <td>350 Ft</td>
+ </tr>
+ <tr>
+ <td>A2</td>
+ <td>Görög gyümölcsleves</td>
+ <td>Sárgabarack krémleves</td>
+ <td>Málnakrém leves</td>
+ <td>Citromos almaleves</td>
+ <td>Meggyleves habcsöppel</td>
+ </tr>
+ <tr>
+ <td> </td>
+ <td>330 Ft</td>
+ <td>255 Ft</td>
+ <td>290 Ft</td>
+ <td>295 Ft</td>
+ <td>330 Ft</td>
+ </tr>
+ <tr>
+ <td>B</td>
+ <td>Zöldbabfőzelék</td>
+ <td>Tejfölös krumplifőzelék</td>
+ <td>Mexikói chilisbab</td>
+ <td>Spenót tükörtojással</td>
+ <td>Paradicsomos káposzta</td>
+ </tr>
+ <tr>
+ <td></td>
+ <td>300 Ft</td>
+ <td>300 Ft</td>
+ <td>295 Ft</td>
+ <td>285 Ft</td>
+ <td>285 Ft</td>
+ </tr>
+ <tr>
+ <td>C</td>
+ <td>Rántott csirkemell filé rizi-bizi</td>
+ <td>Vasi pecsenye tepsis burgonya</td>
+ <td>Sertéspörkölt nokedlival</td>
+ <td>Tejszínes-gombás csirkeragu penne tésztával</td>
+ <td>Kolozsvári rakott káposzta</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>595 Ft</td>
+ <td>650 Ft</td>
+ <td>575 Ft</td>
+ <td>555 Ft</td>
+ <td>630 Ft</td>
+ </tr>
+ <tr>
+ <td>D</td>
+ <td>Borsos tokány, tarhonya</td>
+ <td>Dubary sertésszelet, tepsis burgonya</td>
+ <td>Hekkfilé párizsiasan petrezs.burgonya</td>
+ <td>Grill csirkemáj bacon szalonnával, burgonyapüré</td>
+ <td>Csikós tokány, galuska</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>560 Ft</td>
+ <td>585 Ft</td>
+ <td>495 Ft</td>
+ <td>545 Ft</td>
+ <td>540 Ft</td>
+ </tr> 
+ <tr>
+ <td>T1</td>
+ <td>Bolognai makaróni</td>
+ <td>Túrós tészta</td>
+ <td>Káposztás tészta</td>
+ <td>Sajtos, csirkehúsos penne</td>
+ <td>Spagetti Carbonara</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>555 Ft</td>
+ <td>520 Ft</td>
+ <td>490 Ft</td>
+ <td>540 Ft</td>
+ <td>540 Ft</td>
+ </tr> 
+ <tr>
+ <td>T2</td>
+ <td>Szilvás gombóc</td>
+ <td>Aranygaluska vanilia sodó</td>
+ <td>Diós guba</td>
+ <td>Lekváros derelye</td>
+ <td>Mákos nudli</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ </tr>
+ <tr>
+ <td>S</td>
+ <td>Pirított csirkemell darabok, joghurtos uborka</td>
+ <td>Cézár saláta</td>
+ <td>Szezámmagos rántott pulykamell, sopszka saláta</td>
+ <td>Zöldséggel göngyölt hideg pulykamell, könnyű majonézes burgonyasalátával</td>
+ <td>Sült csirkemell, könnyű majonézes, kukoricás, zöldborsós salátával</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>600 Ft</td>
+ <td>650 Ft</td>
+ <td>660 Ft</td>
+ <td>600 Ft</td>
+ <td>615 Ft</td>
+ </tr> 
+ <tr>
+ <td>V</td>
+ <td>Sajtos karfiol lengyelesen</td>
+ <td>Gomba vadasan makaróni</td>
+ <td>Brokkoli párizsiasan, burgonyapürével</td>
+ <td>Mozzarella sajt rántva rizzsel</td>
+ <td>Grillezett zöldségek, burgonyakrokettel</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ <td>490 Ft</td>
+ </tr> 
+ <tr>
+ <td>Z</td>
+ <td>Tejberizs, csoki öntet</td>
+ <td>Meggyes király rétes</td>
+ <td>Csokis palacsinta 2db</td>
+ <td>Alma fahéjas köntösben és bundában</td>
+ <td>Somlói galuska</td>
+ </tr> 
+ <tr>
+ <td></td>
+ <td>180 Ft</td>
+ <td>180 Ft</td>
+ <td>180 Ft</td> 
+ <td>180 Ft</td>
+ <td>260 Ft</td>
+ </tr>
+ </table>

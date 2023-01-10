@@ -1,0 +1,6 @@
+﻿hal1	ar1	hal2	ar2	hal3	ar3
+Szegedi pontyhalászlé	1600 Ft	Harcsapörkölt	2850 Ft	Süllőfilé rántva	3200 Ft
+Bajai pontyhalászlé	1600 Ft	Harcsa molnárné módra	2900 Ft	Süllőfilé sütve	3500 Ft
+Vegyes halászlé	1400 Ft	Filézett pontyszeletek rántva	2750 Ft	Süllőfilé Bakonyi módra	3300 Ft
+Harcsa halászlé	1950 Ft	Filézett pontyszeletek sütve	2650 Ft	Süllőfilé Orly módra	3600 Ft
+Halbelsőség csészében	1450 Ft	Filézett pontyszeletek Orly módon	2900 Ft	Süllő egészben sütve	4100 Ft

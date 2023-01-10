@@ -1,0 +1,26 @@
+﻿Áttekintés
+Köszönjük, hogy a NewNet1G300N Gigabites, USB csatlakozóval rendelkező Wireless-N vezeték nélküli routert választotta.
+A készülék lehetővé teszi vezeték nélküli adatátvitellel és vezetékes módon 4 eszköznek az internet könnyű és gyors elérését. A készülék segítségével különböző erőforrásokat (számítógépek, nyomtatók és fájlok) oszthatunk meg. A készülékhez egy USB interfésszel rendelkező adattároló eszköz csatlakoztatható. A belső hálózatán könnyen és biztonságosan hozzáférhet a külső háttértárolón lévő adataihoz bármely számítógépről. A személyes adatainak biztonságáról a készülék számos biztonsági megoldása gondoskodik. Ezek beállításáról később részletesen is olvashat. A készülék funkcióit a kapott CD-vel vagy egy kisebb gyakorlattal, illetve a leírás és a webes segédprogram segítségével egyszerűen állíthatja be.
+Előlap – ledek
+Az eszköz ledjei az előlapon találhatók.
+Név	Állapot	Leírás
+Power (PWR)	Nem világít	A készülék nincs bekapcsolva.
+	Világít	A készülékbe van kapcsolva.
+System (SYS)	Világít	A készülék bekapcsolás utáni tesztet végzi.
+	Villog	A készülék megfelelően működik.
+	Nem világít	A készülék rendszerhibás.
+WLAN	Nem világít	A vezeték nélküli hálózati funkció ki van kapcsolva.
+	Villog	A vezeték nélküli hálózati funkció be van kapcsolva.
+WAN, LAN 1-4	Nem világít	Nincs eszköz csatlakoztatva az adott portba.
+	Világít	Az adott porthoz csatlakozik eszköz, de nincs hálózati forgalom.
+	Villog	Az adott porthoz csatlakozik eszköz és van hálózati forgalom.
+USB	Nem világít	Nincs az USB porthoz csatlakoztatva eszköz.
+	Világít	Az USB porthoz csatlakozik eszköz, de nincs adatforgalom.
+	Villog	Az USB porthoz csatlakozik eszköz és van adatforgalom.
+Hátlap – csatlakozók
+Power: A tápegység csatlakoztatási helye. A készüléket csak a hozzá adott tápegységgel használja!
+Reset: Kétféle módon állíthatja vissza alapállapotba a készüléket: A webes segédprogram Rendszereszközök > Gyári Beállítások parancsával, vagy a Reset gomb használatával. Ehhez nyomja meg és tartsa nyomva 5 másodpercig a gombot, majd várja meg, amíg a készülék újraindul.
+USB: ehhez a porthoz csatlakoztathatja USB-s tárolóeszközét.
+WAN: ehhez a porthoz az internetszolgáltató DSL vagy kábeles kapcsolathoz tartozó kábelt csatlakoztathatja.
+LAN (1, 2, 3, 4): a helyi vezetékes hálózatban lévő eszközöket csatlakoztathatja ezekhez a portokhoz.
+Antenna portok: Az anya kialakítású antenna portokhoz kell csatlakoztatnia a mellékelt antennák apa csatlakozóit.
